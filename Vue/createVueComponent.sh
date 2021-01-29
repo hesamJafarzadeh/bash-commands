@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo 'Vue Component Creator is Running ...'
 read -p "Please Enter Component name (without .vue extension)  followed by Enter: " componentName
 
